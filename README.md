@@ -1,2 +1,2 @@
 # StockDz03
-Application for managing a stock
+Application for managing a stock !!!
